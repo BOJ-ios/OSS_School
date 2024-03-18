@@ -3,7 +3,7 @@
 ## 2024년 3월 15일 수업
 
 ```git
-get add .
-get commit -m "README"
+git add .
+git commit -m "README"
 git push -u origin main
 ```
